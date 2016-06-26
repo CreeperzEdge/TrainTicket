@@ -1,10 +1,11 @@
 author: wizzledonker
+authors: [CreeperzEdge]
 database: false
 description: Users must buy tickets before they are allowed to enter a train/cart.
-main: me.wizzledonker.plugins.trainticket.Trainticket
+main: main.java.me.wizzledonker.plugins.trainticket.Trainticket
 name: TrainTicket
 startup: postworld
-version: '1.5'
+version: 1.5a
 softdepend: [Vault]
 permissions:
   TrainTicket.exempt:
@@ -15,4 +16,4 @@ permissions:
     Default: true
   TrainTicket.booth.create:
     Description: Defines whether the player can create a ticket booth
-    Default: op
+    Default: true

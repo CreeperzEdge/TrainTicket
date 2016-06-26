@@ -1,4 +1,4 @@
-package me.wizzledonker.plugins.trainticket;
+package main.java.me.wizzledonker.plugins.trainticket;
 
 import java.io.File;
 import java.io.PrintStream;
@@ -249,7 +249,7 @@ if (this.dispenseMinecart) {
 				  change = i.getAmount() - goldLeft;
 				  if(change == 0)
 				  {
-					  player.getInventory().removeItem(i);
+					  player.getInventory().remove(i);
 					  player.updateInventory();
 					  return;
 				  }

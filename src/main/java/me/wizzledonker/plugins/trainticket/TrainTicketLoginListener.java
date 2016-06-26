@@ -1,4 +1,4 @@
-package me.wizzledonker.plugins.trainticket;
+package main.java.me.wizzledonker.plugins.trainticket;
  
 
 import org.bukkit.entity.Player;
