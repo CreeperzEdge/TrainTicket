@@ -1,0 +1,6 @@
+{
+  "name": "Trainticket",
+  "tagline": "TrainTicket is a bukkit plugin which allows people to use tickets before entering any vehicle",
+  "body": "TrainTicket\r\n===========\r\n\r\nTrainTicket is a bukkit plugin which allows people to use tickets before entering any vehicle\r\n\r\nhttps://github.com/DrkMatr1984/TrainTicket/wiki\r\n\r\nTo compile:\r\n\r\nMake sure you have apache Maven installed, download the contents of this repo, and run\r\n\r\nmvn clean package\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
